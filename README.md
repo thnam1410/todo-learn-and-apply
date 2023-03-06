@@ -13,11 +13,12 @@
 
 - [ ] Microservice Architecture
 - [ ] APIs Gateway
+- [ ] Message-Broker (RabbitMQ/Kafka)
 - [ ] Unit Test
 - [ ] Integration Test
 - [ ] Logging Service 
 - [ ] Redis
-- [ ] Message-Broker (RabbitMQ/Kafka)
+
 ...To be continue
 
 **DevOps:**
@@ -25,10 +26,12 @@
 - [ ] CI/CD
 - [ ] Docker
 - [ ] Deploy - AWS Deploy
+
 ...To be continue
 
-This project will relate to EShopOnContainer which has been popular [on GitHub](https://github.com/dotnet-architecture/eShopOnContainers)
-
+This project's implementation will be learned from:
+- [EShopOnContainer](https://github.com/dotnet-architecture/eShopOnContainers)
+- [CleanArchitectureDotnet](https://github.com/thangchung/clean-architecture-dotnet)
 
 
 
